@@ -1,6 +1,6 @@
 # Dart Data Models with json_annotation
 
-A basic example of how to use Modelina and output a Go data model.
+A basic example of how to use Modelina and output a Dart data model.
 
 ## How to run this example
 
